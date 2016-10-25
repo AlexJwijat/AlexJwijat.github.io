@@ -67,3 +67,6 @@ root.mainloop()
 #we couldn't get it to work with the code we had, since the
 #code had an under 60 type of method for counting, which counter
 #acted with the lapping method
+#also just a little disclaimer, even though we have the code add 1
+#second until it reaches 60 second where it would then consider it a 
+#minute, the code tends to count a bit too slow, so a second isnt really 1 second
